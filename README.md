@@ -28,7 +28,7 @@ Replace `<ros_distro>` with your installed distribution.
 ```bash
 mkdir -p ~/robotics_ws/src
 cd ~/robotics_ws/src
-git clone https://github.com/Narjes-Gh2024/HW03_Robotic_Technology.git
+git clone https://github.com/Narjes-Gh2024/mobile-robot-slam-planning.git
 cd ~/robotics_ws
 source /opt/ros/<ros_distro>/setup.bash
 rosdep update
